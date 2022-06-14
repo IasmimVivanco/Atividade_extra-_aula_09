@@ -28,6 +28,16 @@ double zerarResultado(double resultado)
     return resultado;
 }
 
+double definirResultadoDaUltimaOperacaoMatematica()
+{
+    double novoValor;
+    Console.WriteLine("Digite o novo valor: ");
+    novoValor = Convert.ToDouble(Console.ReadLine());
+
+    resultado == novoValor;
+    return resultado;
+}
+
 Console.WriteLine("Escolha qual operação deseja realizar:");
 Console.WriteLine("1 - Somar");
 Console.WriteLine("2 - Subtrair ");
@@ -76,17 +86,7 @@ double pegarResultadoDaUltimaOperacaoMatematica(double resultado)
         return resultado;
     }
 
-    void definirResultadoDaUltimaOperacaoMatematica()
-    {
-        Console.WriteLine("Escolha qual operação deseja realizar:");
-        Console.WriteLine("1 - Somar");
-        Console.WriteLine("2 - Subtrair ");
-        Console.WriteLine("3 - Multiplicar");
-        Console.WriteLine("4 - Dividir");
-        Console.WriteLine("5 - Zerar a calculadora");
-        double Operador = double.Parse(Console.ReadLine());
-    }
-    definirResultadoDaUltimaOperacaoMatematica();
+ 
 }
 
 pegarResultadoDaUltimaOperacaoMatematica(resultado);
