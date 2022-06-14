@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade extra aula 09", "Atividade extra aula 09\Atividade extra aula 09.csproj", "{233C6D15-576C-472B-89FA-F16A63DAA3C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233C6D15-576C-472B-89FA-F16A63DAA3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233C6D15-576C-472B-89FA-F16A63DAA3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233C6D15-576C-472B-89FA-F16A63DAA3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233C6D15-576C-472B-89FA-F16A63DAA3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB3349F-8ED4-4098-9148-B892E4E91822}
+	EndGlobalSection
+EndGlobal
